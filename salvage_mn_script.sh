@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='salvage.conf'
-CONFIGFOLDER='/root/.Salvage'
+CONFIGFOLDER='/root/.salvage'
 COIN_DAEMON='salvaged'
 COIN_CLI='salvage-cli'
 COIN_TX='salvage-tx'
